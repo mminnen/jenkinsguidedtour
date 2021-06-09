@@ -2,6 +2,10 @@
 https://www.jenkins.io/doc/pipeline/tour/getting-started/
 
 ## use a Jenkins container for testing
+Install Jenkins on Windows:
+https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable/
+
+## use a Jenkins container for testing
 https://github.com/jenkinsci/docker/blob/master/README.md
 
 ```bash
